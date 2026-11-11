@@ -1,0 +1,21 @@
+{
+  "machine": {
+    "processor": "Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",
+    "cpu_count": 12,
+    "os": "Windows-11-10.0.26200-SP0",
+    "python": "3.12.0",
+    "tensorflow": "2.21.0"
+  },
+  "mobilenetv2": {
+    "runs": 20,
+    "median_ms": 86.2,
+    "min_ms": 85.7,
+    "max_ms": 139.3
+  },
+  "scratch_cnn_v2": {
+    "runs": 20,
+    "median_ms": 20.3,
+    "min_ms": 18.8,
+    "max_ms": 23.5
+  }
+}

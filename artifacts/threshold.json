@@ -1,0 +1,6 @@
+{
+  "threshold": 0.999,
+  "known_accept_test": 0.46878824969400246,
+  "unknown_reject_B": 0.8453237410071942,
+  "accuracy_of_accepted_test": 0.9947780678851175
+}

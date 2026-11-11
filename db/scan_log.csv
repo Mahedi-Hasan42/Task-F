@@ -1,0 +1,8 @@
+time,source,predicted,confidence,status,final_label
+2026-11-10T14:47:56,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Banana_011.jpg,Banana,1.0000,CONFIRMED,Banana
+2026-11-10T15:03:16,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Orange_007.jpg,Orange,1.0000,CONFIRMED,Orange
+2026-11-10T15:06:47,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Red-Delicious_011.jpg,Pomegranate,0.9997,USER_DENIED,
+2026-11-10T15:09:09,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Granny-Smith_042.jpg,Avocado,0.5120,REJECTED,
+2026-11-10T15:17:08,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Banana_013.jpg,Banana,1.0000,CONFIRMED,Banana
+2026-11-10T15:42:07,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Orange_007.jpg,Orange,1.0000,CONFIRMED,Orange
+2026-11-11T10:53:18,C:/Users/USER/Downloads/Mahedi/Update/Evaluation/pic/Orange_007.jpg,Orange,1.0000,CONFIRMED,Orange

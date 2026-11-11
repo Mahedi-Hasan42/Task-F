@@ -1,0 +1,16 @@
+{
+  "mobilenetv2": {
+    "test_macro_f1": 0.8935394952452415,
+    "test_accuracy": 0.8959608323133414,
+    "params": 2425048,
+    "file_size_mb": 10.27,
+    "train_time_sec": 162.7
+  },
+  "scratch_cnn_v2": {
+    "test_macro_f1": 0.7182660385553481,
+    "test_accuracy": 0.7380660954712362,
+    "params": 261496,
+    "file_size_mb": 1.12,
+    "train_time_sec": 256.3
+  }
+}
